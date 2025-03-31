@@ -3,7 +3,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Main\\PhpTest\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
