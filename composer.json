@@ -1,0 +1,16 @@
+{
+    "name": "main/php-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Main\\PhpTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mauricio",
+            "email": "mauricio.fidalgo1+gh@gmail.com"
+        }
+    ],
+    "require": {}
+}
